@@ -1,0 +1,6 @@
+Create a new Repository
+clone the repository to get into local machine 
+add file 
+commit that file
+push it back into central machine
+
